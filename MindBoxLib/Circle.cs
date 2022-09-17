@@ -7,6 +7,7 @@
         public Circle(double radius)
         {
             _radius = radius;
+            
             if (!IsValid())
                 throw new Exception("Такого круга не существует, неккоректный радиус");
         }
