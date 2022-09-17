@@ -9,6 +9,7 @@
             _edgeA = a;
             _edgeB = b;
             _edgeC = c;
+            
             if (!IsValid())
                 throw new Exception("Такого треугольника не существует, проверьте значения сторон");
         }
