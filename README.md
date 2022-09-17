@@ -3,9 +3,9 @@
 
 1. Напишите на C# библиотеку для поставки внешним клиентам, которая умеет вычислять площадь круга по радиусу и треугольника по трем сторонам.
 
-    Код проекта https://github.com/LordVampiree/MindBoxLib/tree/main/MindBoxLib
+    <a href="https://github.com/LordVampiree/MindBoxLib/tree/main/MindBoxLib">Код проекта</a>
     
-    Код тестов https://github.com/LordVampiree/MindBoxLib/tree/main/MindBoxLib.Tests
+    <a href="https://github.com/LordVampiree/MindBoxLib/tree/main/MindBoxLib.Tests">Код тестов</a>
 
 
 2. В базе данных MS SQL Server есть продукты и категории. Одному продукту может соответствовать много категорий, в одной категории может быть много продуктов. Напишите SQL запрос для выбора всех пар «Имя продукта – Имя категории». Если у продукта нет категорий, то его имя все равно должно выводиться.
